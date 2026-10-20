@@ -1,0 +1,25 @@
+# Dev docs (not shipped)
+PLAN.md
+docs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dev scripts (personal)
+dev-tmux.sh
+
+# AI tool local dirs
+.codex
+.codex/
+.claude/
+
+# Temp
+*.tmp
+*.log
